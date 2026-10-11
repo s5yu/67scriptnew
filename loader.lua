@@ -7,7 +7,8 @@ task.spawn(function()
     print("Current PlaceId:", PlaceID)
 
     local scripts = {
-        [82866880824588] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua"     
+        [82866880824588] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua",
+        [81310542478972] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua"
     }
 
     local url = scripts[PlaceID]
