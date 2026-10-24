@@ -9,7 +9,8 @@ task.spawn(function()
     local scripts = {
         [82866880824588] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua",
         [81310542478972] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua",
-        [140541044364039] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua"
+        [140541044364039] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua",
+        [93201274415679] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua"
     }
 
     local url = scripts[PlaceID]
