@@ -1,4 +1,4 @@
-Ttask.spawn(function()
+task.spawn(function()
     task.wait(1)
 
     local PlaceID = game.PlaceId
