@@ -7,10 +7,10 @@ task.spawn(function()
     print("Current PlaceId:", PlaceID)
 
     local scripts = {
-        [82866880824588] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua",
-        [81310542478972] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua",
-        [140541044364039] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua",
-        [93201274415679] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua"
+        [4] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua", -- 82866880824588
+        [3] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua", -- 81310542478972
+        [2] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua", -- 140541044364039
+        [1] = "https://raw.githubusercontent.com/s5yu/67scriptnew/refs/heads/main/ff3main.lua" -- 93201274415679
     }
 
     local url = scripts[PlaceID]
