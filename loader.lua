@@ -1,4 +1,4 @@
-task.spawn(function()
+Ttask.spawn(function()
     task.wait(1)
 
     local PlaceID = game.PlaceId
@@ -26,6 +26,6 @@ task.spawn(function()
             warn("Failed to fetch script:", result)
         end
     else
-        Player:Kick("Join For Help! https://discord.gg/67scripts Unauthorized game. PlaceId: " .. PlaceID)
+        Player:Kick("MOVED TO NEW LOADER JOIN DISCORD!! https://discord.gg/67scripts Unauthorized game. PlaceId: " .. PlaceID)
     end
 end)
